@@ -19,17 +19,17 @@
 jsonify: This function is used to return data in JSON format. It's a shortcut for converting a Python dictionary into a JSON response that can be sent over HTTP.
 
 ## GIT
-create a new repository on the command line
-echo "# React_Flask" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/alex-ajith/React_Flask.git
-git push -u origin main
+## create a new repository on the command line
+    >> echo "# React_Flask" >> README.md
+    >> git init
+    >> git add README.md
+    >> git commit -m "first commit"
+    >> git branch -M main
+    >> git remote add origin https://github.com/alex-ajith/React_Flask.git
+    >> git push -u origin main
 
 
-push an existing repository from the command line
-git remote add origin https://github.com/alex-ajith/React_Flask.git
-git branch -M main
-git push -u origin main
+## push an existing repository from the command line
+    >> git remote add origin https://github.com/alex-ajith/React_Flask.git
+    >> git branch -M main
+    >> git push -u origin main
