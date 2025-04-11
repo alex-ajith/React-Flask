@@ -25,11 +25,11 @@ jsonify: This function is used to return data in JSON format. It's a shortcut fo
     >> git add README.md
     >> git commit -m "first commit"
     >> git branch -M main
-    >> git remote add origin https://github.com/alex-ajith/React_Flask.git
+    >> git remote add origin https://github.com/alex-ajith/React-Flask.git
     >> git push -u origin main
 
 
 ## push an existing repository from the command line
-    >> git remote add origin https://github.com/alex-ajith/React_Flask.git
+    >> git remote add origin https://github.com/alex-ajith/React-Flask.git
     >> git branch -M main
     >> git push -u origin main
